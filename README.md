@@ -1,2 +1,2 @@
 # cognitive-debt-calculator
-📊 Measure your repository's comprehension deficit. Calculate documentation-to-code ratios for AI-assisted codebases. Built for FluencyLoop.
+📊 Measure your repository's comprehension deficit. Calculate documentation-to-code ratios for AI-assisted codebases. 
